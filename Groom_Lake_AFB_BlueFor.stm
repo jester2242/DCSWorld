@@ -1,0 +1,1187 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 2,
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 1.5009831567151,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88618.108285451,
+                                            ["speed"] = 0,
+                                            ["x"] = -288193.24122469,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "usaf standard",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-117A",
+                                        ["unitId"] = 1,
+                                        ["y"] = -88618.108285451,
+                                        ["x"] = -288193.24122469,
+                                        ["name"] = "DictKey_GroupName_6",
+                                        ["heading"] = 1.5009831567151,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88618.108285451,
+                                ["x"] = -288193.24122469,
+                                ["name"] = "DictKey_GroupName_6",
+                                ["dead"] = false,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["heading"] = 1.5009831567151,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88621.274934672,
+                                            ["speed"] = 0,
+                                            ["x"] = -288144.77772357,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 2,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "usaf standard",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-117A",
+                                        ["unitId"] = 2,
+                                        ["y"] = -88621.274934672,
+                                        ["x"] = -288144.77772357,
+                                        ["name"] = "DictKey_GroupName_9",
+                                        ["heading"] = 1.5009831567151,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88621.274934672,
+                                ["x"] = -288144.77772357,
+                                ["name"] = "DictKey_GroupName_9",
+                                ["dead"] = false,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["heading"] = 1.5009831567151,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88624.509047289,
+                                            ["speed"] = 0,
+                                            ["x"] = -288102.30331989,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 3,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "usaf standard",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-117A",
+                                        ["unitId"] = 3,
+                                        ["y"] = -88624.509047289,
+                                        ["x"] = -288102.30331989,
+                                        ["name"] = "DictKey_GroupName_12",
+                                        ["heading"] = 1.5009831567151,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88624.509047289,
+                                ["x"] = -288102.30331989,
+                                ["name"] = "DictKey_GroupName_12",
+                                ["dead"] = false,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["heading"] = 1.5009831567151,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88627.17453985,
+                                            ["speed"] = 0,
+                                            ["x"] = -288060.48840534,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 4,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "usaf standard",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-117A",
+                                        ["unitId"] = 4,
+                                        ["y"] = -88627.17453985,
+                                        ["x"] = -288060.48840534,
+                                        ["name"] = "DictKey_GroupName_15",
+                                        ["heading"] = 1.5009831567151,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88627.17453985,
+                                ["x"] = -288060.48840534,
+                                ["name"] = "DictKey_GroupName_15",
+                                ["dead"] = false,
+                            }, -- end of [4]
+                            [5] = 
+                            {
+                                ["heading"] = 1.5009831567151,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88631.006185407,
+                                            ["speed"] = 0,
+                                            ["x"] = -287977.69154265,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 5,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "usaf standard",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-117A",
+                                        ["unitId"] = 5,
+                                        ["y"] = -88631.006185407,
+                                        ["x"] = -287977.69154265,
+                                        ["name"] = "DictKey_GroupName_18",
+                                        ["heading"] = 1.5009831567151,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88631.006185407,
+                                ["x"] = -287977.69154265,
+                                ["name"] = "DictKey_GroupName_18",
+                                ["dead"] = false,
+                            }, -- end of [5]
+                            [6] = 
+                            {
+                                ["heading"] = 6.2308254296198,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88623.509377801,
+                                            ["speed"] = 0,
+                                            ["x"] = -287818.97427603,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 6,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "USA X Black",
+                                        ["category"] = "Helicopters",
+                                        ["type"] = "AH-1W",
+                                        ["unitId"] = 6,
+                                        ["y"] = -88623.509377801,
+                                        ["x"] = -287818.97427603,
+                                        ["name"] = "DictKey_GroupName_21",
+                                        ["heading"] = 6.2308254296198,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88623.509377801,
+                                ["x"] = -287818.97427603,
+                                ["name"] = "DictKey_GroupName_21",
+                                ["dead"] = false,
+                            }, -- end of [6]
+                            [7] = 
+                            {
+                                ["heading"] = 6.2308254296198,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88662.458549586,
+                                            ["speed"] = 0,
+                                            ["x"] = -287822.17159611,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 7,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "[Civilian] Standard",
+                                        ["category"] = "Helicopters",
+                                        ["type"] = "UH-1H",
+                                        ["unitId"] = 7,
+                                        ["rate"] = "20",
+                                        ["y"] = -88662.458549586,
+                                        ["x"] = -287822.17159611,
+                                        ["name"] = "DictKey_GroupName_24",
+                                        ["heading"] = 6.2308254296198,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88662.458549586,
+                                ["x"] = -287822.17159611,
+                                ["name"] = "DictKey_GroupName_24",
+                                ["dead"] = false,
+                            }, -- end of [7]
+                            [8] = 
+                            {
+                                ["heading"] = 3.08923277603,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88480.477945139,
+                                            ["speed"] = 0,
+                                            ["x"] = -287266.81763446,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 8,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "standard",
+                                        ["category"] = "Helicopters",
+                                        ["type"] = "UH-60A",
+                                        ["unitId"] = 8,
+                                        ["rate"] = "30",
+                                        ["y"] = -88480.477945139,
+                                        ["x"] = -287266.81763446,
+                                        ["name"] = "DictKey_GroupName_27",
+                                        ["heading"] = 3.08923277603,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88480.477945139,
+                                ["x"] = -287266.81763446,
+                                ["name"] = "DictKey_GroupName_27",
+                                ["dead"] = false,
+                            }, -- end of [8]
+                            [9] = 
+                            {
+                                ["heading"] = 3.08923277603,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88657.639186567,
+                                            ["speed"] = 0,
+                                            ["x"] = -286989.97708748,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 9,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "standard",
+                                        ["category"] = "Helicopters",
+                                        ["type"] = "UH-60A",
+                                        ["unitId"] = 9,
+                                        ["y"] = -88657.639186567,
+                                        ["x"] = -286989.97708748,
+                                        ["name"] = "DictKey_GroupName_30",
+                                        ["heading"] = 3.08923277603,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88657.639186567,
+                                ["x"] = -286989.97708748,
+                                ["name"] = "DictKey_GroupName_30",
+                                ["dead"] = false,
+                            }, -- end of [9]
+                            [10] = 
+                            {
+                                ["heading"] = 3.08923277603,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88566.350775997,
+                                            ["speed"] = 0,
+                                            ["x"] = -288702.40793291,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 10,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Planes",
+                                        ["type"] = "An-26B",
+                                        ["unitId"] = 10,
+                                        ["rate"] = "50",
+                                        ["y"] = -88566.350775997,
+                                        ["x"] = -288702.40793291,
+                                        ["name"] = "DictKey_GroupName_33",
+                                        ["heading"] = 3.08923277603,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88566.350775997,
+                                ["x"] = -288702.40793291,
+                                ["name"] = "DictKey_GroupName_33",
+                                ["dead"] = false,
+                            }, -- end of [10]
+                            [11] = 
+                            {
+                                ["heading"] = 3.08923277603,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88557.774600086,
+                                            ["speed"] = 0,
+                                            ["x"] = -288693.80788445,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 11,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 1200,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "bw_container_cargo",
+                                        ["type"] = "container_cargo",
+                                        ["unitId"] = 11,
+                                        ["y"] = -88557.774600086,
+                                        ["x"] = -288693.80788445,
+                                        ["name"] = "DictKey_GroupName_36",
+                                        ["heading"] = 3.08923277603,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88557.774600086,
+                                ["x"] = -288693.80788445,
+                                ["name"] = "DictKey_GroupName_36",
+                                ["dead"] = false,
+                            }, -- end of [11]
+                            [12] = 
+                            {
+                                ["heading"] = 3.08923277603,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88555.279735223,
+                                            ["speed"] = 0,
+                                            ["x"] = -288693.68765,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 12,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["mass"] = 1200,
+                                        ["category"] = "Cargos",
+                                        ["canCargo"] = true,
+                                        ["shape_name"] = "bw_container_cargo",
+                                        ["type"] = "container_cargo",
+                                        ["unitId"] = 12,
+                                        ["y"] = -88555.279735223,
+                                        ["x"] = -288693.68765,
+                                        ["name"] = "DictKey_GroupName_39",
+                                        ["heading"] = 3.08923277603,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88555.279735223,
+                                ["x"] = -288693.68765,
+                                ["name"] = "DictKey_GroupName_39",
+                                ["dead"] = false,
+                            }, -- end of [12]
+                            [13] = 
+                            {
+                                ["heading"] = 1.9722220547536,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -87692.1903083,
+                                            ["speed"] = 0,
+                                            ["x"] = -287027.53634542,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 16,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "'Splinter' Camo for Blue Side (Fictional)",
+                                        ["category"] = "Planes",
+                                        ["type"] = "JF-17",
+                                        ["unitId"] = 16,
+                                        ["y"] = -87692.1903083,
+                                        ["x"] = -287027.53634542,
+                                        ["name"] = "DictKey_GroupName_56",
+                                        ["heading"] = 1.9722220547536,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -87692.1903083,
+                                ["x"] = -287027.53634542,
+                                ["name"] = "DictKey_GroupName_56",
+                                ["dead"] = false,
+                            }, -- end of [13]
+                            [14] = 
+                            {
+                                ["heading"] = 5.550147021342,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88597.108506406,
+                                            ["speed"] = 0,
+                                            ["x"] = -289154.05955358,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 17,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "black 'Mig-28'",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-5E-3",
+                                        ["unitId"] = 17,
+                                        ["y"] = -88597.108506406,
+                                        ["x"] = -289154.05955358,
+                                        ["name"] = "DictKey_GroupName_59",
+                                        ["heading"] = 5.550147021342,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88597.108506406,
+                                ["x"] = -289154.05955358,
+                                ["name"] = "DictKey_GroupName_59",
+                                ["dead"] = false,
+                            }, -- end of [14]
+                            [15] = 
+                            {
+                                ["heading"] = 3.0543261909901,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -87956.214063606,
+                                            ["speed"] = 0,
+                                            ["x"] = -288550.71676383,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 18,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "USA_AFG",
+                                        ["category"] = "Helicopters",
+                                        ["type"] = "Mi-8MT",
+                                        ["unitId"] = 18,
+                                        ["rate"] = "30",
+                                        ["y"] = -87956.214063606,
+                                        ["x"] = -288550.71676383,
+                                        ["name"] = "DictKey_GroupName_62",
+                                        ["heading"] = 3.0543261909901,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -87956.214063606,
+                                ["x"] = -288550.71676383,
+                                ["name"] = "DictKey_GroupName_62",
+                                ["dead"] = false,
+                            }, -- end of [15]
+                            [16] = 
+                            {
+                                ["heading"] = 1.5009831567151,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88661.829398439,
+                                            ["speed"] = 0,
+                                            ["x"] = -287685.6577012,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 19,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "USA_AFG",
+                                        ["category"] = "Helicopters",
+                                        ["type"] = "Mi-8MT",
+                                        ["unitId"] = 19,
+                                        ["y"] = -88661.829398439,
+                                        ["x"] = -287685.6577012,
+                                        ["name"] = "DictKey_GroupName_65",
+                                        ["heading"] = 1.5009831567151,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88661.829398439,
+                                ["x"] = -287685.6577012,
+                                ["name"] = "DictKey_GroupName_65",
+                                ["dead"] = false,
+                            }, -- end of [16]
+                            [17] = 
+                            {
+                                ["heading"] = 1.5009831567151,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -88658.365769773,
+                                            ["speed"] = 0,
+                                            ["x"] = -287726.75942803,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 20,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "USA_AFG",
+                                        ["category"] = "Helicopters",
+                                        ["type"] = "Mi-8MT",
+                                        ["unitId"] = 20,
+                                        ["y"] = -88658.365769773,
+                                        ["x"] = -287726.75942803,
+                                        ["name"] = "DictKey_GroupName_68",
+                                        ["heading"] = 1.5009831567151,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -88658.365769773,
+                                ["x"] = -287726.75942803,
+                                ["name"] = "DictKey_GroupName_68",
+                                ["dead"] = false,
+                            }, -- end of [17]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                    ["name"] = "USA",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [27]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [38]
+                [39] = 
+                {
+                    ["id"] = 77,
+                    ["name"] = "Portugal",
+                }, -- end of [39]
+                [40] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [40]
+                [41] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [41]
+                [42] = 
+                {
+                    ["id"] = 34,
+                    ["name"] = "Iran",
+                }, -- end of [42]
+                [43] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [43]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [7]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "Groom Lake AFB",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_UnitName_22"] = "",
+            ["DictKey_WptName_11"] = "",
+            ["DictKey_UnitName_60"] = "",
+            ["DictKey_WptName_58"] = "",
+            ["DictKey_GroupName_15"] = "New Static Object #003",
+            ["DictKey_GroupName_56"] = "New Static Object #010",
+            ["DictKey_GroupName_65"] = "New Static Object #013",
+            ["DictKey_WptName_41"] = "",
+            ["DictKey_GroupName_68"] = "New Static Object #014",
+            ["DictKey_GroupName_21"] = "New Static Object #005",
+            ["DictKey_GroupName_46"] = "",
+            ["DictKey_WptName_48"] = "",
+            ["DictKey_UnitName_7"] = "",
+            ["DictKey_WptName_70"] = "",
+            ["DictKey_UnitName_25"] = "New Static Object #005",
+            ["DictKey_WptName_50"] = "",
+            ["DictKey_GroupName_51"] = "",
+            ["DictKey_GroupName_62"] = "New Static Object #012",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_WptName_64"] = "",
+            ["DictKey_GroupName_6"] = "New Static Object",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_66"] = "",
+            ["DictKey_UnitName_13"] = "New Static Object",
+            ["DictKey_UnitName_43"] = "",
+            ["DictKey_GroupName_30"] = "New Static Object #008",
+            ["DictKey_WptName_53"] = "",
+            ["DictKey_WptName_23"] = "",
+            ["DictKey_WptName_8"] = "",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_WptName_55"] = "",
+            ["DictKey_GroupName_33"] = "New Static Object #009",
+            ["DictKey_GroupName_9"] = "New Static Object #001",
+            ["DictKey_UnitName_57"] = "",
+            ["DictKey_UnitName_31"] = "",
+            ["DictKey_WptName_17"] = "",
+            ["DictKey_WptName_26"] = "",
+            ["DictKey_UnitName_16"] = "New Static Object",
+            ["DictKey_WptName_14"] = "",
+            ["DictKey_GroupName_12"] = "New Static Object #002",
+            ["DictKey_UnitName_34"] = "",
+            ["DictKey_UnitName_10"] = "New Static Object",
+            ["DictKey_WptName_20"] = "",
+            ["DictKey_GroupName_39"] = "Container #001",
+            ["DictKey_GroupName_18"] = "New Static Object #004",
+            ["DictKey_UnitName_52"] = "",
+            ["DictKey_UnitName_69"] = "New Static Object #013",
+            ["DictKey_GroupName_42"] = "",
+            ["DictKey_WptName_29"] = "",
+            ["DictKey_WptName_45"] = "",
+            ["DictKey_WptName_67"] = "",
+            ["DictKey_GroupName_36"] = "Container",
+            ["DictKey_UnitName_19"] = "New Static Object",
+            ["DictKey_UnitName_40"] = "",
+            ["DictKey_GroupName_24"] = "New Static Object #006",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_28"] = "",
+            ["DictKey_WptName_38"] = "",
+            ["DictKey_WptName_35"] = "",
+            ["DictKey_WptName_32"] = "",
+            ["DictKey_UnitName_47"] = "",
+            ["DictKey_GroupName_59"] = "New Static Object #011",
+            ["DictKey_WptName_44"] = "",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_WptName_61"] = "",
+            ["DictKey_UnitName_63"] = "",
+            ["DictKey_WptName_49"] = "",
+            ["DictKey_UnitName_37"] = "",
+            ["DictKey_GroupName_27"] = "New Static Object #007",
+            ["DictKey_WptName_54"] = "",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "Nevada",
+    ["desc"] = "Area 51 move along nothing to see here.",
+} -- end of staticTemplate

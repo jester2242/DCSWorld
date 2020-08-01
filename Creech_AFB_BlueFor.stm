@@ -1,0 +1,1294 @@
+staticTemplate = 
+{
+    ["coalition"] = 
+    {
+        ["neutrals"] = 
+        {
+            ["name"] = "neutrals",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 70,
+                    ["name"] = "Algeria",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 65,
+                    ["name"] = "Bahrain",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 64,
+                    ["name"] = "Brazil",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 63,
+                    ["name"] = "Chile",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 76,
+                    ["name"] = "Cuba",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 29,
+                    ["name"] = "Egypt",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 62,
+                    ["name"] = "Ethiopia",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 61,
+                    ["name"] = "Honduras",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 33,
+                    ["name"] = "India",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 60,
+                    ["name"] = "Indonesia",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 34,
+                    ["name"] = "Iran",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 69,
+                    ["name"] = "Italian Social Republic",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 36,
+                    ["name"] = "Japan",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 59,
+                    ["name"] = "Jordan",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 37,
+                    ["name"] = "Kazakhstan",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 58,
+                    ["name"] = "Libya",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 57,
+                    ["name"] = "Malaysia",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 56,
+                    ["name"] = "Mexico",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 55,
+                    ["name"] = "Morocco",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 38,
+                    ["name"] = "North Korea",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 73,
+                    ["name"] = "Oman",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 39,
+                    ["name"] = "Pakistan",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 54,
+                    ["name"] = "Philippines",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 77,
+                    ["name"] = "Portugal",
+                }, -- end of [27]
+                [28] = 
+                {
+                    ["id"] = 72,
+                    ["name"] = "Qatar",
+                }, -- end of [28]
+                [29] = 
+                {
+                    ["id"] = 42,
+                    ["name"] = "Saudi Arabia",
+                }, -- end of [29]
+                [30] = 
+                {
+                    ["id"] = 75,
+                    ["name"] = "South Africa",
+                }, -- end of [30]
+                [31] = 
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [31]
+                [32] = 
+                {
+                    ["id"] = 53,
+                    ["name"] = "Sudan",
+                }, -- end of [32]
+                [33] = 
+                {
+                    ["id"] = 22,
+                    ["name"] = "Switzerland",
+                }, -- end of [33]
+                [34] = 
+                {
+                    ["id"] = 52,
+                    ["name"] = "Thailand",
+                }, -- end of [34]
+                [35] = 
+                {
+                    ["id"] = 66,
+                    ["name"] = "Third Reich",
+                }, -- end of [35]
+                [36] = 
+                {
+                    ["id"] = 51,
+                    ["name"] = "Tunisia",
+                }, -- end of [36]
+                [37] = 
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [37]
+                [38] = 
+                {
+                    ["id"] = 68,
+                    ["name"] = "USSR",
+                }, -- end of [38]
+                [39] = 
+                {
+                    ["id"] = 50,
+                    ["name"] = "Venezuela",
+                }, -- end of [39]
+                [40] = 
+                {
+                    ["id"] = 49,
+                    ["name"] = "Vietnam",
+                }, -- end of [40]
+                [41] = 
+                {
+                    ["id"] = 48,
+                    ["name"] = "Yemen",
+                }, -- end of [41]
+                [42] = 
+                {
+                    ["id"] = 67,
+                    ["name"] = "Yugoslavia",
+                }, -- end of [42]
+            }, -- end of ["country"]
+        }, -- end of ["neutrals"]
+        ["blue"] = 
+        {
+            ["name"] = "blue",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 23,
+                    ["name"] = "Austria",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 11,
+                    ["name"] = "Belgium",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 25,
+                    ["name"] = "Bulgaria",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 28,
+                    ["name"] = "Croatia",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [8]
+                [9] = 
+                {
+                    ["id"] = 30,
+                    ["name"] = "Finland",
+                }, -- end of [9]
+                [10] = 
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [10]
+                [11] = 
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [11]
+                [12] = 
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [12]
+                [13] = 
+                {
+                    ["id"] = 31,
+                    ["name"] = "Greece",
+                }, -- end of [13]
+                [14] = 
+                {
+                    ["id"] = 32,
+                    ["name"] = "Hungary",
+                }, -- end of [14]
+                [15] = 
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [15]
+                [16] = 
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [16]
+                [17] = 
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [17]
+                [18] = 
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [18]
+                [19] = 
+                {
+                    ["id"] = 41,
+                    ["name"] = "Romania",
+                }, -- end of [19]
+                [20] = 
+                {
+                    ["id"] = 44,
+                    ["name"] = "Slovakia",
+                }, -- end of [20]
+                [21] = 
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [21]
+                [22] = 
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [22]
+                [23] = 
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [23]
+                [24] = 
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [24]
+                [25] = 
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [25]
+                [26] = 
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [26]
+                [27] = 
+                {
+                    ["id"] = 2,
+                    ["static"] = 
+                    {
+                        ["group"] = 
+                        {
+                            [1] = 
+                            {
+                                ["heading"] = 0.034906585039887,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -74765.905568756,
+                                            ["speed"] = 0,
+                                            ["x"] = -360844.87002641,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 1,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "USAF Standard",
+                                        ["category"] = "Planes",
+                                        ["type"] = "RQ-1A Predator",
+                                        ["unitId"] = 1,
+                                        ["y"] = -74765.905568756,
+                                        ["x"] = -360844.87002641,
+                                        ["name"] = "DictKey_GroupName_6",
+                                        ["heading"] = 0.034906585039887,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -74765.905568756,
+                                ["x"] = -360844.87002641,
+                                ["name"] = "DictKey_GroupName_6",
+                                ["dead"] = false,
+                            }, -- end of [1]
+                            [2] = 
+                            {
+                                ["heading"] = 0.034906585039887,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -74698.049558166,
+                                            ["speed"] = 0,
+                                            ["x"] = -360847.4726344,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 2,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "USAF Standard",
+                                        ["category"] = "Planes",
+                                        ["type"] = "RQ-1A Predator",
+                                        ["unitId"] = 2,
+                                        ["y"] = -74698.049558166,
+                                        ["x"] = -360847.4726344,
+                                        ["name"] = "DictKey_GroupName_9",
+                                        ["heading"] = 0.034906585039887,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -74698.049558166,
+                                ["x"] = -360847.4726344,
+                                ["name"] = "DictKey_GroupName_9",
+                                ["dead"] = false,
+                            }, -- end of [2]
+                            [3] = 
+                            {
+                                ["heading"] = 3.0368728984701,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75792.857083537,
+                                            ["speed"] = 0,
+                                            ["x"] = -359786.26963853,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 3,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "'camo' scheme",
+                                        ["category"] = "Planes",
+                                        ["type"] = "MQ-9 Reaper",
+                                        ["unitId"] = 3,
+                                        ["y"] = -75792.857083537,
+                                        ["x"] = -359786.26963853,
+                                        ["name"] = "DictKey_GroupName_12",
+                                        ["heading"] = 3.0368728984701,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75792.857083537,
+                                ["x"] = -359786.26963853,
+                                ["name"] = "DictKey_GroupName_12",
+                                ["dead"] = false,
+                            }, -- end of [3]
+                            [4] = 
+                            {
+                                ["heading"] = 3.0368728984701,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75833.989698614,
+                                            ["speed"] = 0,
+                                            ["x"] = -359791.17184963,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 4,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "'camo' scheme",
+                                        ["category"] = "Planes",
+                                        ["type"] = "MQ-9 Reaper",
+                                        ["unitId"] = 4,
+                                        ["y"] = -75833.989698614,
+                                        ["x"] = -359791.17184963,
+                                        ["name"] = "DictKey_GroupName_15",
+                                        ["heading"] = 3.0368728984701,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75833.989698614,
+                                ["x"] = -359791.17184963,
+                                ["name"] = "DictKey_GroupName_15",
+                                ["dead"] = false,
+                            }, -- end of [4]
+                            [5] = 
+                            {
+                                ["heading"] = 2.9845130209103,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75618.594570333,
+                                            ["speed"] = 0,
+                                            ["x"] = -359757.21667692,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 5,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "'camo' scheme",
+                                        ["category"] = "Planes",
+                                        ["type"] = "MQ-9 Reaper",
+                                        ["unitId"] = 5,
+                                        ["y"] = -75618.594570333,
+                                        ["x"] = -359757.21667692,
+                                        ["name"] = "DictKey_GroupName_18",
+                                        ["heading"] = 2.9845130209103,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75618.594570333,
+                                ["x"] = -359757.21667692,
+                                ["name"] = "DictKey_GroupName_18",
+                                ["dead"] = false,
+                            }, -- end of [5]
+                            [6] = 
+                            {
+                                ["heading"] = 2.9845130209103,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75578.77372867,
+                                            ["speed"] = 0,
+                                            ["x"] = -359747.42049543,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 6,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "'camo' scheme",
+                                        ["category"] = "Planes",
+                                        ["type"] = "MQ-9 Reaper",
+                                        ["unitId"] = 6,
+                                        ["y"] = -75578.77372867,
+                                        ["x"] = -359747.42049543,
+                                        ["name"] = "DictKey_GroupName_21",
+                                        ["heading"] = 2.9845130209103,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75578.77372867,
+                                ["x"] = -359747.42049543,
+                                ["name"] = "DictKey_GroupName_21",
+                                ["dead"] = false,
+                            }, -- end of [6]
+                            [7] = 
+                            {
+                                ["heading"] = 3.1764992386297,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75478.817581406,
+                                            ["speed"] = 0,
+                                            ["x"] = -360715.23440192,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 7,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["category"] = "Helicopters",
+                                        ["type"] = "OH-58D",
+                                        ["unitId"] = 7,
+                                        ["y"] = -75478.817581406,
+                                        ["x"] = -360715.23440192,
+                                        ["name"] = "DictKey_GroupName_24",
+                                        ["heading"] = 3.1764992386297,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75478.817581406,
+                                ["x"] = -360715.23440192,
+                                ["name"] = "DictKey_GroupName_24",
+                                ["dead"] = false,
+                            }, -- end of [7]
+                            [8] = 
+                            {
+                                ["heading"] = 3.1764992386297,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75714.402539203,
+                                            ["speed"] = 0,
+                                            ["x"] = -360708.71350222,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 8,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "standard",
+                                        ["category"] = "Helicopters",
+                                        ["type"] = "CH-53E",
+                                        ["unitId"] = 8,
+                                        ["y"] = -75714.402539203,
+                                        ["x"] = -360708.71350222,
+                                        ["name"] = "DictKey_GroupName_27",
+                                        ["heading"] = 3.1764992386297,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75714.402539203,
+                                ["x"] = -360708.71350222,
+                                ["name"] = "DictKey_GroupName_27",
+                                ["dead"] = false,
+                            }, -- end of [8]
+                            [9] = 
+                            {
+                                ["heading"] = 3.1764992386297,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75783.067890121,
+                                            ["speed"] = 0,
+                                            ["x"] = -360707.3838312,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 9,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "standard",
+                                        ["category"] = "Helicopters",
+                                        ["type"] = "CH-53E",
+                                        ["unitId"] = 9,
+                                        ["y"] = -75783.067890121,
+                                        ["x"] = -360707.3838312,
+                                        ["name"] = "DictKey_GroupName_30",
+                                        ["heading"] = 3.1764992386297,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75783.067890121,
+                                ["x"] = -360707.3838312,
+                                ["name"] = "DictKey_GroupName_30",
+                                ["dead"] = false,
+                            }, -- end of [9]
+                            [10] = 
+                            {
+                                ["heading"] = 0.034906585039887,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75144.916922622,
+                                            ["speed"] = 0,
+                                            ["x"] = -360732.36267529,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 10,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "14th_Fighter_Squadron",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-16C_50",
+                                        ["unitId"] = 10,
+                                        ["y"] = -75144.916922622,
+                                        ["x"] = -360732.36267529,
+                                        ["name"] = "DictKey_GroupName_33",
+                                        ["heading"] = 0.034906585039887,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75144.916922622,
+                                ["x"] = -360732.36267529,
+                                ["name"] = "DictKey_GroupName_33",
+                                ["dead"] = false,
+                            }, -- end of [10]
+                            [11] = 
+                            {
+                                ["heading"] = 0.034906585039887,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75177.952205142,
+                                            ["speed"] = 0,
+                                            ["x"] = -360730.88032287,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 11,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "14th_Fighter_Squadron",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-16C_50",
+                                        ["unitId"] = 11,
+                                        ["y"] = -75177.952205142,
+                                        ["x"] = -360730.88032287,
+                                        ["name"] = "DictKey_GroupName_36",
+                                        ["heading"] = 0.034906585039887,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75177.952205142,
+                                ["x"] = -360730.88032287,
+                                ["name"] = "DictKey_GroupName_36",
+                                ["dead"] = false,
+                            }, -- end of [11]
+                            [12] = 
+                            {
+                                ["heading"] = 0.034906585039887,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75208.02278282,
+                                            ["speed"] = 0,
+                                            ["x"] = -360729.18620582,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 12,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "14th_Fighter_Squadron",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-16C_50",
+                                        ["unitId"] = 12,
+                                        ["y"] = -75208.02278282,
+                                        ["x"] = -360729.18620582,
+                                        ["name"] = "DictKey_GroupName_39",
+                                        ["heading"] = 0.034906585039887,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75208.02278282,
+                                ["x"] = -360729.18620582,
+                                ["name"] = "DictKey_GroupName_39",
+                                ["dead"] = false,
+                            }, -- end of [12]
+                            [13] = 
+                            {
+                                ["heading"] = 0.034906585039887,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75238.093360499,
+                                            ["speed"] = 0,
+                                            ["x"] = -360728.97444118,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 13,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "14th_Fighter_Squadron",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-16C_50",
+                                        ["unitId"] = 13,
+                                        ["y"] = -75238.093360499,
+                                        ["x"] = -360728.97444118,
+                                        ["name"] = "DictKey_GroupName_42",
+                                        ["heading"] = 0.034906585039887,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75238.093360499,
+                                ["x"] = -360728.97444118,
+                                ["name"] = "DictKey_GroupName_42",
+                                ["dead"] = false,
+                            }, -- end of [13]
+                            [14] = 
+                            {
+                                ["heading"] = 0.034906585039887,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75269.010996703,
+                                            ["speed"] = 0,
+                                            ["x"] = -360727.28032413,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 14,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "14th_Fighter_Squadron",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-16C_50",
+                                        ["unitId"] = 14,
+                                        ["y"] = -75269.010996703,
+                                        ["x"] = -360727.28032413,
+                                        ["name"] = "DictKey_GroupName_45",
+                                        ["heading"] = 0.034906585039887,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75269.010996703,
+                                ["x"] = -360727.28032413,
+                                ["name"] = "DictKey_GroupName_45",
+                                ["dead"] = false,
+                            }, -- end of [14]
+                            [15] = 
+                            {
+                                ["heading"] = 0.034906585039887,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75298.446280487,
+                                            ["speed"] = 0,
+                                            ["x"] = -360726.22150097,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 15,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "14th_Fighter_Squadron",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-16C_50",
+                                        ["unitId"] = 15,
+                                        ["y"] = -75298.446280487,
+                                        ["x"] = -360726.22150097,
+                                        ["name"] = "DictKey_GroupName_48",
+                                        ["heading"] = 0.034906585039887,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75298.446280487,
+                                ["x"] = -360726.22150097,
+                                ["name"] = "DictKey_GroupName_48",
+                                ["dead"] = false,
+                            }, -- end of [15]
+                            [16] = 
+                            {
+                                ["heading"] = 0.034906585039887,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75329.15215206,
+                                            ["speed"] = 0,
+                                            ["x"] = -360725.37444245,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 16,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "14th_Fighter_Squadron",
+                                        ["category"] = "Planes",
+                                        ["type"] = "F-16C_50",
+                                        ["unitId"] = 16,
+                                        ["y"] = -75329.15215206,
+                                        ["x"] = -360725.37444245,
+                                        ["name"] = "DictKey_GroupName_51",
+                                        ["heading"] = 0.034906585039887,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75329.15215206,
+                                ["x"] = -360725.37444245,
+                                ["name"] = "DictKey_GroupName_51",
+                                ["dead"] = false,
+                            }, -- end of [16]
+                            [17] = 
+                            {
+                                ["heading"] = 4.7822021504645,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75553.973965203,
+                                            ["speed"] = 0,
+                                            ["x"] = -360147.30047081,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 17,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "'camo' scheme",
+                                        ["category"] = "Planes",
+                                        ["type"] = "MQ-9 Reaper",
+                                        ["unitId"] = 17,
+                                        ["y"] = -75553.973965203,
+                                        ["x"] = -360147.30047081,
+                                        ["name"] = "DictKey_GroupName_54",
+                                        ["heading"] = 4.7822021504645,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75553.973965203,
+                                ["x"] = -360147.30047081,
+                                ["name"] = "DictKey_GroupName_54",
+                                ["dead"] = false,
+                            }, -- end of [17]
+                            [18] = 
+                            {
+                                ["heading"] = 4.7822021504645,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75530.116889299,
+                                            ["speed"] = 0,
+                                            ["x"] = -360132.16425879,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 18,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "'camo' scheme",
+                                        ["category"] = "Planes",
+                                        ["type"] = "MQ-9 Reaper",
+                                        ["unitId"] = 18,
+                                        ["y"] = -75530.116889299,
+                                        ["x"] = -360132.16425879,
+                                        ["name"] = "DictKey_GroupName_57",
+                                        ["heading"] = 4.7822021504645,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75530.116889299,
+                                ["x"] = -360132.16425879,
+                                ["name"] = "DictKey_GroupName_57",
+                                ["dead"] = false,
+                            }, -- end of [18]
+                            [19] = 
+                            {
+                                ["heading"] = 4.7822021504645,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75453.904237398,
+                                            ["speed"] = 0,
+                                            ["x"] = -360083.24290887,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 19,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "'camo' scheme",
+                                        ["category"] = "Planes",
+                                        ["type"] = "MQ-9 Reaper",
+                                        ["unitId"] = 19,
+                                        ["y"] = -75453.904237398,
+                                        ["x"] = -360083.24290887,
+                                        ["name"] = "DictKey_GroupName_60",
+                                        ["heading"] = 4.7822021504645,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75453.904237398,
+                                ["x"] = -360083.24290887,
+                                ["name"] = "DictKey_GroupName_60",
+                                ["dead"] = false,
+                            }, -- end of [19]
+                            [20] = 
+                            {
+                                ["heading"] = 4.7822021504645,
+                                ["route"] = 
+                                {
+                                    ["points"] = 
+                                    {
+                                        [1] = 
+                                        {
+                                            ["alt"] = 0,
+                                            ["type"] = "",
+                                            ["name"] = "",
+                                            ["y"] = -75408.114770224,
+                                            ["speed"] = 0,
+                                            ["x"] = -360052.12955297,
+                                            ["formation_template"] = "",
+                                            ["action"] = "",
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["groupId"] = 20,
+                                ["units"] = 
+                                {
+                                    [1] = 
+                                    {
+                                        ["livery_id"] = "'camo' scheme",
+                                        ["category"] = "Planes",
+                                        ["type"] = "MQ-9 Reaper",
+                                        ["unitId"] = 20,
+                                        ["y"] = -75408.114770224,
+                                        ["x"] = -360052.12955297,
+                                        ["name"] = "DictKey_GroupName_63",
+                                        ["heading"] = 4.7822021504645,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["y"] = -75408.114770224,
+                                ["x"] = -360052.12955297,
+                                ["name"] = "DictKey_GroupName_63",
+                                ["dead"] = false,
+                            }, -- end of [20]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                    ["name"] = "USA",
+                }, -- end of [27]
+            }, -- end of ["country"]
+        }, -- end of ["blue"]
+        ["red"] = 
+        {
+            ["name"] = "red",
+            ["country"] = 
+            {
+                [1] = 
+                {
+                    ["id"] = 18,
+                    ["name"] = "Abkhazia",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["id"] = 24,
+                    ["name"] = "Belarus",
+                }, -- end of [2]
+                [3] = 
+                {
+                    ["id"] = 27,
+                    ["name"] = "China",
+                }, -- end of [3]
+                [4] = 
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [4]
+                [5] = 
+                {
+                    ["id"] = 43,
+                    ["name"] = "Serbia",
+                }, -- end of [5]
+                [6] = 
+                {
+                    ["id"] = 19,
+                    ["name"] = "South Ossetia",
+                }, -- end of [6]
+                [7] = 
+                {
+                    ["id"] = 47,
+                    ["name"] = "Syria",
+                }, -- end of [7]
+                [8] = 
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [8]
+            }, -- end of ["country"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["name"] = "Creech AFB",
+    ["requiredModules"] = 
+    {
+    }, -- end of ["requiredModules"]
+    ["localization"] = 
+    {
+        ["DEFAULT"] = 
+        {
+            ["DictKey_UnitName_22"] = "New Static Object #004",
+            ["DictKey_WptName_11"] = "",
+            ["DictKey_GroupName_42"] = "New Static Object #012",
+            ["DictKey_UnitName_19"] = "New Static Object #002",
+            ["DictKey_WptName_65"] = "",
+            ["DictKey_WptName_41"] = "",
+            ["DictKey_GroupName_57"] = "New Static Object #017",
+            ["DictKey_WptName_32"] = "",
+            ["DictKey_UnitName_7"] = "",
+            ["DictKey_GroupName_60"] = "New Static Object #018",
+            ["DictKey_UnitName_25"] = "",
+            ["DictKey_WptName_50"] = "",
+            ["DictKey_GroupName_51"] = "New Static Object #015",
+            ["DictKey_WptName_59"] = "",
+            ["DictKey_UnitName_58"] = "New Static Object #004",
+            ["DictKey_UnitName_28"] = "",
+            ["DictKey_GroupName_6"] = "New Static Object",
+            ["DictKey_descriptionText_1"] = "",
+            ["DictKey_UnitName_55"] = "New Static Object #004",
+            ["DictKey_UnitName_13"] = "",
+            ["DictKey_UnitName_43"] = "New Static Object #009",
+            ["DictKey_UnitName_61"] = "New Static Object #017",
+            ["DictKey_GroupName_30"] = "New Static Object #008",
+            ["DictKey_WptName_53"] = "",
+            ["DictKey_WptName_23"] = "",
+            ["DictKey_WptName_8"] = "",
+            ["DictKey_descriptionRedTask_2"] = "",
+            ["DictKey_WptName_38"] = "",
+            ["DictKey_GroupName_33"] = "New Static Object #009",
+            ["DictKey_GroupName_9"] = "New Static Object #001",
+            ["DictKey_UnitName_31"] = "New Static Object #007",
+            ["DictKey_WptName_17"] = "",
+            ["DictKey_WptName_26"] = "",
+            ["DictKey_UnitName_16"] = "New Static Object #002",
+            ["DictKey_WptName_14"] = "",
+            ["DictKey_GroupName_12"] = "New Static Object #002",
+            ["DictKey_descriptionBlueTask_3"] = "",
+            ["DictKey_UnitName_52"] = "New Static Object #009",
+            ["DictKey_WptName_62"] = "",
+            ["DictKey_WptName_20"] = "",
+            ["DictKey_WptName_47"] = "",
+            ["DictKey_GroupName_15"] = "New Static Object #003",
+            ["DictKey_UnitName_49"] = "New Static Object #009",
+            ["DictKey_WptName_29"] = "",
+            ["DictKey_UnitName_46"] = "New Static Object #009",
+            ["DictKey_UnitName_34"] = "",
+            ["DictKey_GroupName_36"] = "New Static Object #010",
+            ["DictKey_GroupName_63"] = "New Static Object #019",
+            ["DictKey_UnitName_37"] = "New Static Object #009",
+            ["DictKey_WptName_35"] = "",
+            ["DictKey_UnitName_40"] = "New Static Object #009",
+            ["DictKey_GroupName_21"] = "New Static Object #005",
+            ["DictKey_GroupName_54"] = "New Static Object #016",
+            ["DictKey_UnitName_10"] = "New Static Object",
+            ["DictKey_sortie_5"] = "",
+            ["DictKey_GroupName_39"] = "New Static Object #011",
+            ["DictKey_GroupName_48"] = "New Static Object #014",
+            ["DictKey_WptName_44"] = "",
+            ["DictKey_descriptionNeutralsTask_4"] = "",
+            ["DictKey_GroupName_18"] = "New Static Object #004",
+            ["DictKey_GroupName_45"] = "New Static Object #013",
+            ["DictKey_WptName_56"] = "",
+            ["DictKey_GroupName_24"] = "New Static Object #006",
+            ["DictKey_GroupName_27"] = "New Static Object #007",
+            ["DictKey_UnitName_64"] = "New Static Object #017",
+        }, -- end of ["DEFAULT"]
+    }, -- end of ["localization"]
+    ["theatre"] = "Nevada",
+    ["desc"] = "This is has some F-16 visiting in lue of the Thunderbirds and a horde of drones some of which are based here.",
+} -- end of staticTemplate
